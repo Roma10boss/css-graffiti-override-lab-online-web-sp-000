@@ -4,3 +4,6 @@
   z-index: 7;
   display: block;
 }
+p { 
+   font-size: 24px !important; 
+}
